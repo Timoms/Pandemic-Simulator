@@ -34,3 +34,6 @@ Its nothing compared to a real one - but it does look cool!
 ---
 Sure. I would love to see some pull-requests on this project to enhance the way it looks.
 But if you fork it and make it your own - why not?
+
+### Demo
+![Simulation](https://i.imgur.com/leYYoDe.png)
