@@ -1,0 +1,10 @@
+H:\Projects\Pandemic-Simulator\bin\Debug\netcoreapp3.1\PandemicSimulation.exe
+H:\Projects\Pandemic-Simulator\bin\Debug\netcoreapp3.1\PandemicSimulation.deps.json
+H:\Projects\Pandemic-Simulator\bin\Debug\netcoreapp3.1\PandemicSimulation.runtimeconfig.json
+H:\Projects\Pandemic-Simulator\bin\Debug\netcoreapp3.1\PandemicSimulation.runtimeconfig.dev.json
+H:\Projects\Pandemic-Simulator\bin\Debug\netcoreapp3.1\PandemicSimulation.dll
+H:\Projects\Pandemic-Simulator\bin\Debug\netcoreapp3.1\PandemicSimulation.pdb
+H:\Projects\Pandemic-Simulator\obj\Debug\netcoreapp3.1\PandemicSimulation.AssemblyInfoInputs.cache
+H:\Projects\Pandemic-Simulator\obj\Debug\netcoreapp3.1\PandemicSimulation.AssemblyInfo.cs
+H:\Projects\Pandemic-Simulator\obj\Debug\netcoreapp3.1\PandemicSimulation.dll
+H:\Projects\Pandemic-Simulator\obj\Debug\netcoreapp3.1\PandemicSimulation.pdb

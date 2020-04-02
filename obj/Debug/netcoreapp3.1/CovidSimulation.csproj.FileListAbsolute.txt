@@ -1,0 +1,11 @@
+H:\Projects\School\CovidSimulation\bin\Debug\netcoreapp3.1\CovidSimulation.exe
+H:\Projects\School\CovidSimulation\bin\Debug\netcoreapp3.1\CovidSimulation.deps.json
+H:\Projects\School\CovidSimulation\bin\Debug\netcoreapp3.1\CovidSimulation.runtimeconfig.json
+H:\Projects\School\CovidSimulation\bin\Debug\netcoreapp3.1\CovidSimulation.runtimeconfig.dev.json
+H:\Projects\School\CovidSimulation\bin\Debug\netcoreapp3.1\CovidSimulation.dll
+H:\Projects\School\CovidSimulation\bin\Debug\netcoreapp3.1\CovidSimulation.pdb
+H:\Projects\School\CovidSimulation\obj\Debug\netcoreapp3.1\CovidSimulation.csprojAssemblyReference.cache
+H:\Projects\School\CovidSimulation\obj\Debug\netcoreapp3.1\CovidSimulation.AssemblyInfoInputs.cache
+H:\Projects\School\CovidSimulation\obj\Debug\netcoreapp3.1\CovidSimulation.AssemblyInfo.cs
+H:\Projects\School\CovidSimulation\obj\Debug\netcoreapp3.1\CovidSimulation.dll
+H:\Projects\School\CovidSimulation\obj\Debug\netcoreapp3.1\CovidSimulation.pdb
